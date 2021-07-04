@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ensek-Api-Test", "Ensek-Api-Test\Ensek-Api-Test.csproj", "{8CC8AED7-04A5-43C9-B53B-4CE2005EDF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsekApiTests", "EnsekAoiTests\EnsekApiTests.csproj", "{2994764A-439E-4DD1-BD53-35C0AFF85E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC8AED7-04A5-43C9-B53B-4CE2005EDF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC8AED7-04A5-43C9-B53B-4CE2005EDF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC8AED7-04A5-43C9-B53B-4CE2005EDF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC8AED7-04A5-43C9-B53B-4CE2005EDF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2994764A-439E-4DD1-BD53-35C0AFF85E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2994764A-439E-4DD1-BD53-35C0AFF85E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2994764A-439E-4DD1-BD53-35C0AFF85E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2994764A-439E-4DD1-BD53-35C0AFF85E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9D654A-4AFA-4B9A-AB5F-7529CDD9551D}
+	EndGlobalSection
+EndGlobal
