@@ -8538,11 +8538,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
+      "projectUniqueName": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
       "projectName": "Ensek-Api-Test",
-      "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
+      "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
       "packagesPath": "C:\\Users\\LisaChan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\obj\\",
+      "outputPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

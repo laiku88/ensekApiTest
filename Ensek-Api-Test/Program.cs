@@ -14,17 +14,17 @@ namespace Ensek_Api_Test
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
-            if (args.Length == 1 && args[0].ToLower() == "/seed")
-            {
-                RunSeeding(host);
-            }
-            else
-            {
-                // run the web app
-                host.Run();
-            }
-            //RunSeeding(host);
-            //host.Run();
+            //if (args.Length == 1 && args[0].ToLower() == "/seed")
+            //{
+            //    RunSeeding(host);
+            //}
+            //else
+            //{
+            //    // run the web app
+            //    host.Run();
+            //}
+            RunSeeding(host);
+            host.Run();
         }
 
         private static void RunSeeding(IHost host)

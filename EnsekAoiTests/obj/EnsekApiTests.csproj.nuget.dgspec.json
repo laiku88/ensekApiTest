@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\EnsekAoiTests\\EnsekApiTests.csproj": {}
+    "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\EnsekAoiTests\\EnsekApiTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj": {
+    "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
+        "projectUniqueName": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
         "projectName": "Ensek-Api-Test",
-        "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
+        "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj",
         "packagesPath": "C:\\Users\\LisaChan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\obj\\",
+        "outputPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\EnsekAoiTests\\EnsekApiTests.csproj": {
+    "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\EnsekAoiTests\\EnsekApiTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\EnsekAoiTests\\EnsekApiTests.csproj",
+        "projectUniqueName": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\EnsekAoiTests\\EnsekApiTests.csproj",
         "projectName": "EnsekApiTests",
-        "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\EnsekAoiTests\\EnsekApiTests.csproj",
+        "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\EnsekAoiTests\\EnsekApiTests.csproj",
         "packagesPath": "C:\\Users\\LisaChan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\EnsekAoiTests\\obj\\",
+        "outputPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\EnsekAoiTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -125,8 +125,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj": {
-                "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Api-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj"
+              "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj": {
+                "projectPath": "C:\\Users\\LisaChan\\source\\repos\\Ensek-Test\\Ensek-Api-Test\\Ensek-Api-Test.csproj"
               }
             }
           }

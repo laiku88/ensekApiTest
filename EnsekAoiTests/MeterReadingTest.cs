@@ -3,7 +3,7 @@ using Ensek_Api_Test.Data.Entities;
 using Ensek_Api_Test.DTOs;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace EnsekAoiTests
+namespace EnsekApiTests
 {
     [TestClass]
     public class MeterReadingTest
